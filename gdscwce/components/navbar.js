@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import styles from "../styles/Home.module.css";
 
-export default function Home() {
+export default function nav() {
   return (
     <>
         <nav className="flex justify-between items-center px-4 py-6">
